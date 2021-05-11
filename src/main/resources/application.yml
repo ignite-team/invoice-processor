@@ -1,0 +1,14 @@
+documentai:
+
+  googleapis:
+    endpoint: eu-documentai.googleapis.com:443
+    
+  processor:
+    location: eu
+    projectid: 578702623100
+    processorid: 60dc322c0fd4ce82
+    
+  processor-secondary:
+    location: eu
+    projectid: 578702623100
+    processorid: ae49c91d889921c3

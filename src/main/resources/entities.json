@@ -1,0 +1,15 @@
+[
+	{
+		"name": "cif",
+		"alias": ".*cif.*,.*c\\.i\\.f.*"
+	},
+	{
+		"name": "iban",
+		"alias": ".*iban.*"
+	}
+	,
+	{
+		"name": "total_factura",
+		"alias": ".*total.*factura.*"
+	}    
+]
